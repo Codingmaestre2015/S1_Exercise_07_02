@@ -8,6 +8,9 @@
 
          * Filename: ft.js
  */
+// global variables
+var photographerCost = 0;
+var totalCost = 0;
 
  // sets all form field values to defaults
 function resetForm() {
